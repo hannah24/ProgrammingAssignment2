@@ -1,4 +1,8 @@
+##This pair of functions allows the user to use a cached value of a matrix inverse 
+##rather than recalculating it if the inverse has previously been calculated.  The 
+##functions do this by storing, or caching the value the first time it is computed. 
 
+ 
 ## The following funtion "makeCacheMatrix" creates a special "matrix" object
 ## that can cache the value of its inverse.  It contains functions that:
 ## 1) set the value of the matrix, 
