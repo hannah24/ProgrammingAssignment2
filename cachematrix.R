@@ -1,6 +1,6 @@
 
-## The following funtion "makeCacheMatrix" creates a special "matrix" 
-## containing a function to:
+## The following funtion "makeCacheMatrix" creates a special "matrix" object
+## that can cache the value of its inverse.  It contains functions that:
 ## 1) set the value of the matrix, 
 ## 2) get the value of the matrix, 3) set the inverse of the matrix, and
 ## 4) get the inverse of the matrix 
